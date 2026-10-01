@@ -1,0 +1,14 @@
+C:\Users\Satomich\Documents\Lab02-Koloskov\bin\Debug\net10.0\Lab02-Koloskov.exe
+C:\Users\Satomich\Documents\Lab02-Koloskov\bin\Debug\net10.0\Lab02-Koloskov.deps.json
+C:\Users\Satomich\Documents\Lab02-Koloskov\bin\Debug\net10.0\Lab02-Koloskov.runtimeconfig.json
+C:\Users\Satomich\Documents\Lab02-Koloskov\bin\Debug\net10.0\Lab02-Koloskov.dll
+C:\Users\Satomich\Documents\Lab02-Koloskov\bin\Debug\net10.0\Lab02-Koloskov.pdb
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.AssemblyInfoInputs.cache
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.AssemblyInfo.cs
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.csproj.CoreCompileInputs.cache
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.dll
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\refint\Lab02-Koloskov.dll
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.pdb
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.genruntimeconfig.cache
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\ref\Lab02-Koloskov.dll
