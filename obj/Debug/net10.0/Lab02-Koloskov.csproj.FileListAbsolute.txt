@@ -12,3 +12,4 @@ C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\refint\Lab02-Kolosk
 C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.pdb
 C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.genruntimeconfig.cache
 C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\ref\Lab02-Koloskov.dll
+C:\Users\Satomich\Documents\Lab02-Koloskov\obj\Debug\net10.0\Lab02-Koloskov.sourcelink.json
