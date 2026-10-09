@@ -116,9 +116,22 @@
 // double bmi = weight / (height * height);
 // Console.WriteLine($"Ваш индекс массы тела (BMI): {bmi:F2}");
 
-Console.Write("Введите ваше имя: ");
-string name = Console.ReadLine();
-Console.Write("Введите вашу фамилию: ");
-string surname = Console.ReadLine();
-char firstLetterName = name[0];
-Console.WriteLine($"Ваша фамилия и инициалы: {surname} {firstLetterName}.");
+// Console.Write("Введите ваше имя: ");
+// string name = Console.ReadLine();
+// Console.Write("Введите вашу фамилию: ");
+// string surname = Console.ReadLine();
+// char firstLetterName = name[0];
+// Console.WriteLine($"Ваша фамилия и инициалы: {surname} {firstLetterName}.");
+
+Console.Write("Введите целое число: ");
+string intInput = Console.ReadLine();
+bool isIntParsed = int.TryParse(intInput, out int intResult);
+Console.WriteLine($"Успех: {isIntParsed}, значение: {intResult}");
+Console.Write("Введите дробное число: ");
+string doubleInput = Console.ReadLine()?.Replace('.', ',');
+bool isDoubleParsed = double.TryParse(doubleInput, out double doubleResult);
+Console.WriteLine($"Успех: {isDoubleParsed}, значение: {doubleResult}");
+Console.Write("Введите дату (в формате дд.мм.гггг, например 15.03.2006): ");
+string dateInput = Console.ReadLine();
+bool isDateParsed = DateTime.TryParse(dateInput, out DateTime dateResult);
+Console.WriteLine($"Успех: {isDateParsed}, значение: {dateResult:dd.MM.yyyy}");
