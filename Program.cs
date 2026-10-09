@@ -109,9 +109,16 @@
 // bool isGood = midBall >= 4.0;
 // Console.WriteLine($"Балл >= 4.0: {isGood}");
 
-Console.Write("Введите ваш рост: ");
-double height = Convert.ToDouble(Console.ReadLine());
-Console.Write("Введите ваш вес: ");
-double weight = Convert.ToDouble(Console.ReadLine());
-double bmi = weight / (height * height);
-Console.WriteLine($"Ваш индекс массы тела (BMI): {bmi:F2}");
+// Console.Write("Введите ваш рост: ");
+// double height = Convert.ToDouble(Console.ReadLine());
+// Console.Write("Введите ваш вес: ");
+// double weight = Convert.ToDouble(Console.ReadLine());
+// double bmi = weight / (height * height);
+// Console.WriteLine($"Ваш индекс массы тела (BMI): {bmi:F2}");
+
+Console.Write("Введите ваше имя: ");
+string name = Console.ReadLine();
+Console.Write("Введите вашу фамилию: ");
+string surname = Console.ReadLine();
+char firstLetterName = name[0];
+Console.WriteLine($"Ваша фамилия и инициалы: {surname} {firstLetterName}.");
